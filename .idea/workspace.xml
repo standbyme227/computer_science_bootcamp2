@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="018d5075-f0cb-462e-9d51-5581c19bc91b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/oop2/oop2_1/is_a.py" beforeDir="false" afterPath="$PROJECT_DIR$/oop2/oop2_1/is_a.py" afterDir="false" />
-    </list>
+    <list default="true" id="018d5075-f0cb-462e-9d51-5581c19bc91b" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,22 +18,24 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="3" />
+          <entry key="py" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="3" />
+          <entry key="Python" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="1509" />
+          <entry key="dummy" value="1" />
+          <entry key="py" value="2892" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="1509" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Python" value="2892" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -57,15 +57,56 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/oop2/oop2_1/composition.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
               <folding>
                 <marker date="1540944186237" expanded="true" signature="10:15" ph="..." />
                 <marker date="1540944186237" expanded="true" signature="31:36" ph="..." />
                 <marker date="1540944186237" expanded="true" signature="57:62" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/oop2/oop2_2/method_overriding.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="27" column="34" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
+              <folding>
+                <marker date="1540960733375" expanded="true" signature="33:38" ph="..." />
+                <marker date="1540960733375" expanded="true" signature="249:254" ph="..." />
+                <marker date="1540960733375" expanded="true" signature="657:662" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/oop2/oop2_2/polymorphism_1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="23" column="28" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
+              <folding>
+                <marker date="1540961121781" expanded="true" signature="13:18" ph="..." />
+                <marker date="1540961121781" expanded="true" signature="84:89" ph="..." />
+                <marker date="1540961121781" expanded="true" signature="150:151" ph="..." />
+                <marker date="1540961121781" expanded="true" signature="218:223" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/oop2/oop2_2/polymorphism_2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="525">
+              <caret line="35" column="28" lean-forward="true" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="28" />
+              <folding>
+                <marker date="1540961110825" expanded="true" signature="259:313" ph="..." />
               </folding>
             </state>
           </provider>
@@ -95,6 +136,11 @@
         <option value="$PROJECT_DIR$/oop2/oop2_1/is_a.py" />
         <option value="$PROJECT_DIR$/oop2/oop2_1/aggregation.py" />
         <option value="$PROJECT_DIR$/oop2/oop2_1/composition.py" />
+        <option value="$PROJECT_DIR$/oop2/oop2_2/method_overriding.py" />
+        <option value="$PROJECT_DIR$/oop2/oop2_2/polymorphisom_1.py" />
+        <option value="$PROJECT_DIR$/oop2/oop2_2/polymophism_2.py" />
+        <option value="$PROJECT_DIR$/oop2/oop2_2/polymorphism_2.py" />
+        <option value="$PROJECT_DIR$/oop2/oop2_2/polymorphism_1.py" />
       </list>
     </option>
   </component>
@@ -134,6 +180,12 @@
               <item name="oop2" type="462c0819:PsiDirectoryNode" />
               <item name="oop2_1" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="bootcamp-7" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bootcamp-7" type="462c0819:PsiDirectoryNode" />
+              <item name="oop2" type="462c0819:PsiDirectoryNode" />
+              <item name="oop2_2" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -147,6 +199,11 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/oop2" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -232,11 +289,46 @@
     <entry file="file://$PROJECT_DIR$/oop2/oop2_1/composition.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
           <folding>
             <marker date="1540944186237" expanded="true" signature="10:15" ph="..." />
             <marker date="1540944186237" expanded="true" signature="31:36" ph="..." />
             <marker date="1540944186237" expanded="true" signature="57:62" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oop2/oop2_2/method_overriding.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="34" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
+          <folding>
+            <marker date="1540960733375" expanded="true" signature="33:38" ph="..." />
+            <marker date="1540960733375" expanded="true" signature="249:254" ph="..." />
+            <marker date="1540960733375" expanded="true" signature="657:662" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oop2/oop2_2/polymorphism_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" column="28" lean-forward="true" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="28" />
+          <folding>
+            <marker date="1540961110825" expanded="true" signature="259:313" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oop2/oop2_2/polymorphism_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="28" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
+          <folding>
+            <marker date="1540961121781" expanded="true" signature="13:18" ph="..." />
+            <marker date="1540961121781" expanded="true" signature="84:89" ph="..." />
+            <marker date="1540961121781" expanded="true" signature="150:151" ph="..." />
+            <marker date="1540961121781" expanded="true" signature="218:223" ph="..." />
           </folding>
         </state>
       </provider>
